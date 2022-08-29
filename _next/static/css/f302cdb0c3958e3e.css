@@ -1,0 +1,328 @@
+.styles_lazyload-wrapper__iNCqt {ß
+  margin: 0 -30px 50px;
+  border: 2px solid hsla(0, 0%, 100%, .16);
+  border-radius: 7px;
+  box-shadow: 0 10px 24px 0 rgba(0, 0, 0, .65) !important
+}
+
+.styles_divider__vbkkn {
+  width: 100%;
+  min-height: 1px;
+  background-color: #302c3f;
+  margin-top: 48px;
+  margin-bottom: 48px
+}
+
+@media screen and (max-width:767px) {
+  .styles_divider__vbkkn {
+    margin-top: 40px;
+    margin-bottom: 40px
+  }
+}
+
+.styles_section__2xJbu {
+  padding-top: 80px
+}
+
+.styles_blog-post__GLp2T {
+  padding-bottom: 148px
+}
+
+@media screen and (max-width:991px) {
+  .styles_section__2xJbu {
+    padding: 80px 40px 118px
+  }
+}
+
+@media screen and (max-width:767px) {
+  .styles_section__2xJbu {
+    padding: 60px 0 95px
+  }
+}
+
+.react-tabs {
+  -webkit-tap-highlight-color: transparent
+}
+
+.react-tabs__tab-list {
+  border-bottom: 1px solid #aaa;
+  margin: 0 0 10px;
+  padding: 0
+}
+
+.react-tabs__tab {
+  display: inline-block;
+  border: 1px solid transparent;
+  border-bottom: none;
+  bottom: -1px;
+  position: relative;
+  list-style: none;
+  padding: 6px 12px;
+  cursor: pointer
+}
+
+.react-tabs__tab--selected {
+  background: #fff;
+  border-color: #aaa;
+  color: #000;
+  border-radius: 5px 5px 0 0
+}
+
+.react-tabs__tab--disabled {
+  color: GrayText;
+  cursor: default
+}
+
+.react-tabs__tab:focus {
+  outline: none
+}
+
+.react-tabs__tab:focus:after {
+  content: "";
+  position: absolute;
+  height: 5px;
+  left: -4px;
+  right: -4px;
+  bottom: -5px;
+  background: #fff
+}
+
+.react-tabs__tab-panel {
+  display: none
+}
+
+.react-tabs__tab-panel--selected {
+  display: block
+}
+
+.Home_container__bCOhY {
+  max-width: 1246px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 24px;
+  padding-left: 24px
+}
+
+.Home_main__nLjiQ {
+  min-height: 100vh;
+  padding: 4rem 0;
+  flex: 1;
+  flex-direction: column
+}
+
+.Home_footer____T7K, .Home_main__nLjiQ {
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.Home_footer____T7K {
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea
+}
+
+.Home_footer____T7K a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1
+}
+
+.Home_title__T09hD a {
+  color: #0070f3;
+  text-decoration: none
+}
+
+.Home_title__T09hD a:active, .Home_title__T09hD a:focus, .Home_title__T09hD a:hover {
+  text-decoration: underline
+}
+
+.Home_title__T09hD {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem
+}
+
+.Home_description__41Owk, .Home_title__T09hD {
+  text-align: center
+}
+
+.Home_description__41Owk {
+  margin: 4rem 0;
+  line-height: 1.5;
+  font-size: 1.5rem
+}
+
+.Home_code__suPER {
+  background: #fafafa;
+  border-radius: 5px;
+  padding: .75rem;
+  font-size: 1.1rem;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace
+}
+
+.Home_grid__GxQ85 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 800px
+}
+
+.Home_card___LpL1 {
+  margin: 1rem;
+  padding: 1.5rem;
+  text-align: left;
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: color .15s ease, border-color .15s ease;
+  max-width: 300px
+}
+
+.Home_card___LpL1:active, .Home_card___LpL1:focus, .Home_card___LpL1:hover {
+  color: #0070f3;
+  border-color: #0070f3
+}
+
+.Home_card___LpL1 h2 {
+  margin: 0 0 1rem;
+  font-size: 1.5rem
+}
+
+.Home_card___LpL1 p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.5
+}
+
+.Home_logo__27_tb {
+  height: 1em;
+  margin-left: .5rem
+}
+
+@media (max-width:600px) {
+  .Home_grid__GxQ85 {
+    width: 100%;
+    flex-direction: column
+  }
+}
+
+.styles_card-post-item-about-content__lWKis {
+  display: flex;
+  margin-right: 26px;
+  margin-bottom: 15px;
+  align-items: center;
+  justify-content: center;
+  color: #d9d7e6;
+  font-size: 13px;
+  line-height: 1.125em
+}
+
+.styles_card-post-item-about-wrapper__CiyXF {
+  display: flex;
+  margin-right: -26px;
+  margin-bottom: 6px;
+  width: 100%
+}
+
+.styles_post-container__WsAnW {
+  max-width: 841px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 24px;
+  padding-left: 24px;
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
+
+.styles_card-post-item-about-icon__lkcLB {
+  max-width: 18px;
+  margin-right: 8px;
+  position: relative
+}
+
+.styles_title__5zTQ_ {
+  transform: translateZ(0) scaleX(1) rotateX(0deg) rotateY(0deg) rotate(0deg) skew(0deg, 0deg);
+  opacity: 1;
+  transform-style: preserve-3d;
+  width: 100%
+}
+
+.styles_post-container__WsAnW img:not(.styles_img-logo__scMsO) {
+  border: 2px solid hsla(0, 0%, 100%, .16);
+  box-shadow: 0 10px 24px 0 rgba(0, 0, 0, .65) !important;
+  border-radius: 7px !important;
+  border: 2px solid hsla(0, 0%, 100%, .16) !important;
+  background: #000
+}
+
+.styles_post-container__WsAnW p {
+  margin-bottom: 32px;
+  line-height: 1.9;
+  color: #e7e7e7;
+  width: 100%
+}
+
+@media screen and (max-width:479px) {
+  .styles_post-container__WsAnW {
+    padding-right: 16px;
+    padding-left: 16px
+  }
+}
+
+@media screen and (max-width:767px) {
+  .styles_rich-text__YS1Lx h2 {
+    margin-bottom: 15px
+  }
+
+  .styles_rich-text__YS1Lx p {
+    margin-bottom: 27px
+  }
+
+  .styles_rich-text__YS1Lx ol {
+    margin-top: 27px;
+    margin-bottom: 40px;
+    padding-left: 30px
+  }
+
+  .styles_rich-text__YS1Lx h3 {
+    margin-top: 40px;
+    margin-bottom: 15px
+  }
+
+  .styles_rich-text__YS1Lx figure {
+    margin-top: 40px;
+    margin-bottom: 40px
+  }
+
+  .styles_rich-text__YS1Lx h4 {
+    margin-top: 40px;
+    margin-bottom: 15px
+  }
+
+  .styles_rich-text__YS1Lx ul {
+    margin-top: 27px;
+    margin-bottom: 40px;
+    padding-left: 30px
+  }
+
+  .styles_rich-text__YS1Lx h5 {
+    margin-top: 40px;
+    margin-bottom: 15px
+  }
+
+  .styles_rich-text__YS1Lx blockquote {
+    margin-top: 53px;
+    margin-bottom: 40px
+  }
+
+  .styles_rich-text__YS1Lx h6 {
+    margin-top: 40px
+  }
+}

@@ -1,0 +1,344 @@
+.styles_section__2xJbu {
+  padding-top: 80px
+}
+
+.styles_blog-post__GLp2T {
+  padding-bottom: 148px
+}
+
+@media screen and (max-width:991px) {
+  .styles_section__2xJbu {
+    padding: 80px 40px 118px
+  }
+}
+
+@media screen and (max-width:767px) {
+  .styles_section__2xJbu {
+    padding: 60px 0 95px
+  }
+}
+
+.styles_h1__ummvy {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #fff;
+  font-size: 60px;
+  line-height: 1.2em;
+  font-weight: 700;
+  letter-spacing: .02em
+}
+
+@media screen and (max-width:991px) {
+  .styles_h1__ummvy {
+    margin-bottom: 20px;
+    font-size: 50px
+  }
+}
+
+@media screen and (max-width:767px) {
+  .styles_h1__ummvy {
+    margin-bottom: 15px;
+    font-size: 42px
+  }
+}
+
+@media screen and (max-width:479px) {
+  .styles_h1__ummvy {
+    margin-bottom: 10px;
+    font-size: 35px
+  }
+}
+
+.styles_h2__GmK72 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 32px;
+  line-height: 1.182em;
+  font-weight: 700;
+  margin-bottom: 24px;
+  width: 100%
+}
+
+@media screen and (max-width:991px) {
+  .styles_h2__GmK72 {
+    margin-bottom: 10px
+  }
+}
+
+@media screen and (max-width:767px) {
+  .styles_h2__GmK72 {
+    font-size: 30px
+  }
+}
+
+@media screen and (max-width:479px) {
+  .styles_h2__GmK72 {
+    font-size: 30px
+  }
+}
+
+.styles_p___2Ldg {
+  letter-spacing: -.02em;
+  margin-bottom: 32px;
+  line-height: 1.9;
+  width: 100%;
+  font-weight: 500
+}
+
+.styles_grid__n4bge {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+  grid-row-gap: 16px;
+  grid-column-gap: 16px
+}
+
+.styles_home-features-grid__u8__E {
+  position: relative;
+  z-index: 1;
+  grid-column-gap: 35px;
+  grid-row-gap: 35px;
+  -ms-grid-columns: repeat(auto-fill, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+  width: 100%
+}
+
+@media screen and (max-width:991px) {
+  .styles_grid__n4bge {
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr
+  }
+}
+
+@media screen and (max-width:767px) {
+  .styles_grid__n4bge {
+    max-width: 603px;
+    width: 100%;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr
+  }
+}
+
+.styles_card__GxwGD {
+  overflow: hidden;
+  border-radius: 22px;
+  background-color: #1d1a27;
+  box-shadow: 0 5px 14px 0 rgba(0, 0, 0, .1);
+  margin: 30px 0
+}
+
+.styles_home-card__VhQ_z {
+  height: auto !important;
+  grid-template-rows: 15% 65% 20% !important;
+  flex-direction: column;
+  position: relative
+}
+
+.styles_home-card__VhQ_z img {
+  height: 20px;
+  width: 20px;
+  color: #3b3b3b
+}
+
+.styles_home-card__VhQ_z a {
+  position: absolute;
+  top: 10px;
+  right: 10px
+}
+
+.styles_home-card__VhQ_z h5 {
+  margin: 0
+}
+
+.styles_home-card__VhQ_z h2 {
+  margin: 0 0 1rem !important;
+  font-size: 1.5rem;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: #fff !important
+}
+
+.styles_home-card__VhQ_z h4 {
+  font-weight: 400;
+  font-size: 13px;
+  margin: 0
+}
+
+.styles_home-card__VhQ_z h6 {
+  margin: 0;
+  font-size: 13px;
+  color: #8b8989
+}
+
+.styles_home-card__VhQ_z h4, .styles_home-card__VhQ_z h6 {
+  margin-bottom: 0
+}
+
+.styles_home-feature__Ft_9Q {
+  padding: 20px 32px 56px;
+  border: 2px solid hsla(0, 0%, 100%, .06);
+  box-shadow: 0 10px 34px 0 rgba(0, 0, 0, .35);
+  margin: 0 !important;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 65%;
+  grid-column-gap: 0;
+  grid-row-gap: 20px;
+  height: 410px
+}
+
+.styles_type-interview__sKopn, .styles_type-webinar___ycCE {
+  color: #db626f
+}
+
+.styles_type-interview__sKopn {
+  color: #f5c04e
+}
+
+.styles_type-course__q1CtU {
+  color: #ebda69
+}
+
+.styles_type-conferencetalk__Ughwt, .styles_type-meetuppresentation__ziuVM {
+  color: #94c1f2
+}
+
+.styles_type-book__YLhL_, .styles_type-podcast__tGqfJ {
+  color: #74c26a
+}
+
+.styles_type-video__SBsGd, .styles_type-workshop__iW4kF {
+  color: #6648b6
+}
+
+.styles_type-article__mBg9_, .styles_type-articlecollection__cS_lD {
+  color: #dd62a7
+}
+
+@media screen and (max-width:767px) {
+  .styles_home-card__VhQ_z {
+    padding-top: 33px;
+    padding-bottom: 48px
+  }
+}
+
+.Home_container__bCOhY {
+  max-width: 1246px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 24px;
+  padding-left: 24px
+}
+
+.Home_main__nLjiQ {
+  min-height: 100vh;
+  padding: 4rem 0;
+  flex: 1;
+  flex-direction: column
+}
+
+.Home_footer____T7K, .Home_main__nLjiQ {
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.Home_footer____T7K {
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea
+}
+
+.Home_footer____T7K a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1
+}
+
+.Home_title__T09hD a {
+  color: #0070f3;
+  text-decoration: none
+}
+
+.Home_title__T09hD a:active, .Home_title__T09hD a:focus, .Home_title__T09hD a:hover {
+  text-decoration: underline
+}
+
+.Home_title__T09hD {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem
+}
+
+.Home_description__41Owk, .Home_title__T09hD {
+  text-align: center
+}
+
+.Home_description__41Owk {
+  margin: 4rem 0;
+  line-height: 1.5;
+  font-size: 1.5rem
+}
+
+.Home_code__suPER {
+  background: #fafafa;
+  border-radius: 5px;
+  padding: .75rem;
+  font-size: 1.1rem;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace
+}
+
+.Home_grid__GxQ85 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 800px
+}
+
+.Home_card___LpL1 {
+  margin: 1rem;
+  padding: 1.5rem;
+  text-align: left;
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: color .15s ease, border-color .15s ease;
+  max-width: 300px
+}
+
+.Home_card___LpL1:active, .Home_card___LpL1:focus, .Home_card___LpL1:hover {
+  color: #0070f3;
+  border-color: #0070f3
+}
+
+.Home_card___LpL1 h2 {
+  margin: 0 0 1rem;
+  font-size: 1.5rem
+}
+
+.Home_card___LpL1 p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.5
+}
+
+.Home_logo__27_tb {
+  height: 1em;
+  margin-left: .5rem
+}
+
+@media (max-width:600px) {
+  .Home_grid__GxQ85 {
+    width: 100%;
+    flex-direction: column
+  }
+}
